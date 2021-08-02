@@ -1,0 +1,9 @@
+index  confidence   rules
+ 1     0.833        ['Sandwich', 'Salad']=>['Coffee']
+ 2     0.816        ['Extra Salami or Feta']=>['Coffee']
+ 3     0.810        ['Keeping It Local']=>['Coffee']
+ 4     0.789        ['Scone', 'Cookies']=>['Coffee']
+ 5     0.773        ['Pastry', 'Juice']=>['Coffee']
+ 6     0.731        ['Juice', 'Spanish Brunch']=>['Coffee']
+ 7     0.714        ['Toast', 'Cake']=>['Coffee']
+ 8     0.704        ['Toast']=>['Coffee']
